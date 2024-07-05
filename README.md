@@ -49,5 +49,15 @@ https://seaborn.pydata.org/generated/seaborn.boxplot.html
 
 ![image](https://github.com/elmunoz42/python-plots/assets/24879995/51f904b7-48b4-4378-bc33-1f52fe2c0861)
 
+### Barplot Example w/ Seaborn 
+https://seaborn.pydata.org/generated/seaborn.barplot.html#seaborn.barplot
+
+![image](https://github.com/elmunoz42/python-plots/assets/24879995/01ba0c19-8333-4a10-963b-921ceee15a30)
+
+### Scatterplot Example w/ Seaborn
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplot
+
+![image](https://github.com/elmunoz42/python-plots/assets/24879995/ff9d2e13-79a2-458a-aca7-71b8364de793)
+
 
 
