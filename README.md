@@ -59,5 +59,8 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ![image](https://github.com/elmunoz42/python-plots/assets/24879995/ff9d2e13-79a2-458a-aca7-71b8364de793)
 
+### Plotly Scatterplot with Colors, and Size Variations
+
+![image](https://github.com/user-attachments/assets/2915c8de-782a-4f78-8796-f30dcf2b456b)
 
 
