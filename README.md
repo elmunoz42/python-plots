@@ -63,4 +63,15 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ![image](https://github.com/user-attachments/assets/2915c8de-782a-4f78-8796-f30dcf2b456b)
 
+### 3d PCA Scatterplot
+![PCA3d](https://github.com/user-attachments/assets/cf5d1bfe-5645-4aaa-89f9-919044bdd383)
+
+### Explained Cummulative Variance
+
+![explained-variance-ratio-by-principal-components](https://github.com/user-attachments/assets/b5967b66-8b47-4a68-b69f-fa6d7f77416d)
+
+### K-Means Plotting with Custom Function
+
+![image](https://github.com/user-attachments/assets/0090e6a4-6cb8-41f4-845c-a27d29a727c9)
+
 
