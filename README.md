@@ -70,6 +70,8 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ![explained-variance-ratio-by-principal-components](https://github.com/user-attachments/assets/b5967b66-8b47-4a68-b69f-fa6d7f77416d)
 
+### K-Means Plotting with Custom Function
 
+![image](https://github.com/user-attachments/assets/0090e6a4-6cb8-41f4-845c-a27d29a727c9)
 
 
