@@ -74,4 +74,7 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ![image](https://github.com/user-attachments/assets/0090e6a4-6cb8-41f4-845c-a27d29a727c9)
 
+### L2 Loss Optimization
 
+
+![l2lossexercise](/images/l2lossexercise.png) 
