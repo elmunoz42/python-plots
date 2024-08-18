@@ -76,5 +76,8 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ### L2 Loss Optimization
 
-
 ![l2lossexercise](/images/l2lossexercise.png) 
+
+### LinearRegression with Polynomial Features
+
+![image](https://github.com/user-attachments/assets/77e33581-4a13-4564-870f-454dd0ee1042)
