@@ -81,3 +81,6 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 ### LinearRegression with Polynomial Features
 
 ![image](https://github.com/user-attachments/assets/77e33581-4a13-4564-870f-454dd0ee1042)
+
+![image](https://github.com/user-attachments/assets/acf49a56-2f0b-4b89-b1f7-5d737b89f974)
+
