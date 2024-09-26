@@ -88,6 +88,11 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn-scatterplo
 
 ![image](https://github.com/user-attachments/assets/104b116f-2846-441c-bf4e-0c0626d1cedf)
 
+### Time Series Decomposition
+
+![image](https://github.com/user-attachments/assets/c43e8f15-dc90-445a-be23-f5e30bdfce6d)
+
+
 ### Ridge Model w/ Low or High Alpha Compared to Linear Regression
 
 ![image](https://github.com/user-attachments/assets/5a2e7745-0959-45d4-9d61-6ca3ad1e2345)
